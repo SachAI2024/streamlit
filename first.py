@@ -3,7 +3,7 @@ import numpy as np
 import time
 
 #import seaborn as sns
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 
 t1, t2, t3 = st.columns([1,3,1])
